@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`REACT TEST getBy text, role, placeholder 1`] = `
+<input
+  placeholder="value"
+  type="text"
+  value=""
+/>
+`;
